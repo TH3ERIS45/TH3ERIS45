@@ -1,5 +1,7 @@
 ## Opa, Tudo bom?
-[![Anurag's GitHub stats](https://camo.githubusercontent.com/aa010d4bfcb476eb8d13837665e0620ec7732ed29df1b48bad82aa8f6df07ec9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6e6f7264)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3ERIS45&layout=compact&theme=nord&langs_count=8)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
