@@ -1,4 +1,3 @@
-## Opa, Tudo bom?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3ERIS45&layout=compact&theme=nord&langs_count=8)
 
 
